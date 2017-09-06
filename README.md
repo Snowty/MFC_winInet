@@ -17,4 +17,4 @@
 
 假如post的网址是www.example.com/post/post.php，要填入用户名和密码（此处可以用抓包工具进行抓取post的字符串
 
-![](/pic//example.PNG)
+![](/pic//example1.PNG)
