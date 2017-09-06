@@ -1,0 +1,22 @@
+﻿Build started 2017/9/6 11:20:53.
+Project "C:\Users\vm-win7x64\Desktop\MFC-TEST\postTest\postTest\postTest.vcxproj" on node 2 (Rebuild target(s)).
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\postTest.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+  stdafx.cpp
+  C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\postTest.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt postTest.cpp postTestDlg.cpp
+  postTestDlg.cpp
+  postTest.cpp
+  Generating Code...
+ResourceCompile:
+  C:\Program Files (x86)\Windows Kits\8.0\bin\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0409" /IDebug\ /nologo /fo"Debug\postTest.res" postTest.rc 
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\vm-win7x64\Desktop\MFC-TEST\postTest\Debug\postTest.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\vm-win7x64\Desktop\MFC-TEST\postTest\Debug\postTest.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\vm-win7x64\Desktop\MFC-TEST\postTest\Debug\postTest.lib" /MACHINE:X86 Debug\postTest.res
+  Debug\postTest.obj
+  Debug\postTestDlg.obj
+  Debug\stdafx.obj
+  postTest.vcxproj -> C:\Users\vm-win7x64\Desktop\MFC-TEST\postTest\Debug\postTest.exe
+Done Building Project "C:\Users\vm-win7x64\Desktop\MFC-TEST\postTest\postTest\postTest.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:06.22
